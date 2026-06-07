@@ -48,7 +48,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ─── Bot Token ───────────────────────────────────────────────────────────────
-BOT_TOKEN = os.getenv("BOT_TOKEN", "PASTE_YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN" , "8683313377:AAF-6_wCYhgi02aGkR4afi0q39ar-bsHGy4")
 
 # ─── Config file ─────────────────────────────────────────────────────────────
 CONFIG_FILE = "config.json"
